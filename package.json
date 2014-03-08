@@ -1,0 +1,20 @@
+{
+  "name": "drifter",
+  "version": "0.0.0",
+  "description": "Just passing through: a log collection infrastructure",
+  "main": "index.js",
+  "devDependencies": {
+    "nodeunit": "0.8.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tristanls/drifter.git"
+  },
+  "keywords": [
+    "log",
+    "collection",
+    "infrastructure"
+  ],
+  "author": "Tristan Slominski <tristan.slominski@gmail.com>",
+  "license": "MIT"
+}
