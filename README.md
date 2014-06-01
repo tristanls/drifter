@@ -4,4 +4,4 @@ _Stability: 1 - [Experimental](https://github.com/tristanls/stability-index#stab
 
 [![NPM version](https://badge.fury.io/js/drifter.png)](http://npmjs.org/package/drifter)
 
-_Just Passing Through_: Infrastructure for your logs, telemetry, and events. Distributed, scalable, and highly-available.
+_Just Passing Through_: **Infrastructure** for your **logs**, **telemetry**, and **events**. Distributed, scalable, and highly-available.
